@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eadf0c45af1b734e83f9ef451c08b3a, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 412f549aefd4d34438375a61b1c28a98, type: 2}
+  currentPos: {x: 1, y: 1}
